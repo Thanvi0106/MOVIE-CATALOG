@@ -1,5 +1,4 @@
 # MOVIE-CATALOG
-🎬 Movie Catalog
 📖 Description
 
 The Movie Catalog is a simple, responsive web application that displays a collection of movies with their ratings and overviews. It is built using HTML, CSS, and JavaScript to demonstrate clean UI design, dynamic content organization, and basic interactivity.
